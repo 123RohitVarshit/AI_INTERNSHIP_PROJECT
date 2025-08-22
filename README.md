@@ -1,13 +1,3 @@
----
-license: apache-2.0
-title: Telugu-Story-Collector
-sdk: streamlit
-emoji: 📚
-colorFrom: blue
-colorTo: indigo
-short_description: Platform to preserve rich narrative of Telugu culture.
-sdk_version: 1.47.0
----
 
 # Telugu Story and Folklore Collector 📖
 
