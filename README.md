@@ -45,8 +45,8 @@ This deployment serves as a fully functional demo. For a production application 
 
 Clone the repository to your local machine:
 ```bash
-git clone https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME
-cd YOUR_SPACE_NAME
+git clone https://huggingface.co/spaces/rohitc1612/Telugu-Story-Collector
+cd Telugu-Story-Collector
 ```
 
 ### Step 2: Install Prerequisites
